@@ -4,6 +4,7 @@ import { Heart, Sparkles } from "lucide-react";
 
 const wishes = [
   "Chúc các boy GDG-HUST luôn mạnh mẽ, tự tin và thành công trên mọi con đường! 💪",
+  "Chúc các anh và bạn có một ngày 19/11 vui vẻ và luôn lạc quan, yêu bản thân hơn. Cảm ơn các anh và bạn đã trở thành một phần lấp lánh của đại gia đình GDG-HUST!!!",
   "Ngày Boys Day vui vẻ! Chúc các anh luôn giữ được nụ cười rạng rỡ và tinh thần tươi trẻ! 🌟",
   "Gửi đến những chàng trai GDG-HUST thân yêu: Luôn vững vàng, luôn tỏa sáng! ✨",
   "Chúc các boy coding giỏi, debug nhanh, và luôn có nhiều commit xanh trên Github! 💻",
